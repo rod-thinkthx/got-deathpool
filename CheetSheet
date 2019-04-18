@@ -1,0 +1,5 @@
+npm init to start npm package
+
+https://github.com/facebook/create-react-app
+
+npm i -S express (installs package and -S saves to package.json)
